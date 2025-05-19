@@ -50,14 +50,14 @@ export default function ContactSection() {
               <div className="flex items-center space-x-4">
                 <PhoneIcon className="h-6 w-6 text-primary" />
                 <span className="text-gray-600 dark:text-gray-300">
-                  +91 9883463542
+                  +91 8158979513
                 </span>
               </div>
               
               <div className="flex items-center space-x-4">
                 <EnvelopeIcon className="h-6 w-6 text-primary" />
                 <span className="text-gray-600 dark:text-gray-300">
-                  mithunbarman0409@gmail.com
+                      thakurpanchananbarma75@gmail.com
                 </span>
               </div>
             </div>
